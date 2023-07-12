@@ -3,31 +3,31 @@
     "loading version information...": {
       "Context": "internal",
       "Translations": {
-        "deDE": "lade versions Informationen..."
+        "deDE": "Lade versions Informationen..."
       }
     },
     "loading database...": {
       "Context": "internal",
       "Translations": {
-        "deDE": "lade datenbank..."
+        "deDE": "Lade datenbank..."
       }
     },
     "accessing online services...": {
       "Context": "internal",
       "Translations": {
-        "deDE": "verbinde mit Online Services..."
+        "deDE": "Verbinde mit Online Services..."
       }
     },
     "initializing environment...": {
       "Context": "internal",
       "Translations": {
-        "deDE": "initialisiere Umgebung..."
+        "deDE": "Initialisiere Umgebung..."
       }
     },
     "compiling plugins...": {
       "Context": "internal",
       "Translations": {
-        "deDE": "kompiliere Plugins..."
+        "deDE": "Kompiliere Plugins..."
       }
     },
     "loading plugin package: {0}": {
@@ -45,7 +45,7 @@
     "local version": {
       "Context": "customizer",
       "Translations": {
-        "deDE": "locale Version"
+        "deDE": "Lokale Version"
       }
     },
     "server version": {
@@ -63,7 +63,7 @@
     "search plugins": {
       "Context": "customizer",
       "Translations": {
-        "deDE": "suche Plugins"
+        "deDE": "Suche Plugins"
       }
     },
     "reset feature": {
@@ -75,25 +75,25 @@
     "save all customizations": {
       "Context": "customizer",
       "Translations": {
-        "deDE": "sichere alle Änderungen"
+        "deDE": "Sichere alle Änderungen"
       }
     },
     "update and overwrite curated plugins": {
       "Context": "customizer",
       "Translations": {
-        "deDE": "aktualisiere und überschreibe plugins"
+        "deDE": "Aktualisiere und überschreibe plugins"
       }
     },
     "current value": {
       "Context": "T4.Plugins.Default.ActionBarResourceValue",
       "Translations": {
-        "deDE": "aktueller Wert"
+        "deDE": "Aktueller Wert"
       }
     },
     "regeneration value": {
       "Context": "T4.Plugins.Default.ActionBarResourceValue",
       "Translations": {
-        "deDE": "regenerations Wert"
+        "deDE": "Regenerations Wert"
       }
     },
     "name on map": {
@@ -105,7 +105,7 @@
     "quest name on map": {
       "Context": "T4.Plugins.Default.AllQuestNameOnMap",
       "Translations": {
-        "deDE": "quest Name auf Karte"
+        "deDE": "Quest Namen auf der Karte"
       }
     },
     "icon on map": {
@@ -117,13 +117,13 @@
     "name on crafting panel": {
       "Context": "T4.Plugins.Default.AspectName",
       "Translations": {
-        "deDE": "Name auf HerstellungsTab"
+        "deDE": "Name auf Herstellungs Fenster"
       }
     },
     "name on collection panel": {
       "Context": "T4.Plugins.Default.AspectName",
       "Translations": {
-        "deDE": "Name auf SammlungsTab"
+        "deDE": "Name auf Sammlungs Fenster"
       }
     },
     "value": {
@@ -147,7 +147,7 @@
     "regular chest on map": {
       "Context": "T4.Plugins.Default.ChestsOnMap",
       "Translations": {
-        "deDE": "normale Kiste auf Karte"
+        "deDE": "Normale Kiste auf Karte"
       }
     },
     "icon and name on map": {
@@ -159,97 +159,97 @@
     "performance settings": {
       "Context": "T4.Plugins.Default.GlobalOptions",
       "Translations": {
-        "deDE": "performance Einstellungen"
+        "deDE": "Performance Einstellungen"
       }
     },
     "count on stash tabs": {
       "Context": "T4.Plugins.Default.ItemCountOnTabs",
       "Translations": {
-        "deDE": "Zahl auf Truhen Tabs"
+        "deDE": "Zahl auf Truhen Fenster"
       }
     },
     "count on inventory tabs": {
       "Context": "T4.Plugins.Default.ItemCountOnTabs",
       "Translations": {
-        "deDE": "Zahl auf Rucksack tabs"
+        "deDE": "Zahl auf Inventar Fenster"
       }
     },
     "regular item on map": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "deDE": "normales Item auf Karte"
+        "deDE": "Normales Item auf der Karte"
       }
     },
     "rare /standard/ item on map": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "deDE": "selten /standard/ Item auf Karte"
+        "deDE": "selten /standard/ Item auf der Karte"
       }
     },
     "rare /sacred/ item on map": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "deDE": "selten /heilig/ Item auf Karte"
+        "deDE": "selten /heilig/ Item auf der Karte"
       }
     },
     "rare /ancestral/ item on map": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "deDE": "selten /vermacht/ Item auf Karte"
+        "deDE": "selten /vermacht/ Item auf der Karte"
       }
     },
     "legendary item on map": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "deDE": "legendäres Item auf Karte"
+        "deDE": "Legendäres Item auf der der Karte"
       }
     },
     "unique item on map": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "deDE": "einzigartiges Item auf Karte"
+        "deDE": "einzigartiges Item auf der Karte"
       }
     },
     "regular monster on map": {
       "Context": "T4.Plugins.Default.MonsterOnMap",
       "Translations": {
-        "deDE": "normales Monster auf Karte"
+        "deDE": "normales Monster auf der Karte"
       }
     },
     "elite monster on map": {
       "Context": "T4.Plugins.Default.MonsterOnMap",
       "Translations": {
-        "deDE": "elite Monster auf Karte"
+        "deDE": "elite Monster auf der Karte"
       }
     },
     "icon on ground": {
       "Context": "T4.Plugins.Default.PlayersOnGround",
       "Translations": {
-        "deDE": "Symbol auf Boden"
+        "deDE": "Symbol auf dem Boden"
       }
     },
     "destination name on map": {
       "Context": "T4.Plugins.Default.PortalDestinationOnMap",
       "Translations": {
-        "deDE": "Reisepunkt Name auf Karte"
+        "deDE": "Reisepunkt Name auf der Karte"
       }
     },
     "side quest name on map": {
       "Context": "T4.Plugins.Default.SideQuestNameOnMap",
       "Translations": {
-        "deDE": "nebenQuest Name auf Karte"
+        "deDE": "nebenQuest Name auf der Karte"
       }
     },
     "sign on map": {
       "Context": "T4.Plugins.Default.SignOnMap",
       "Translations": {
-        "deDE": "Zeichen auf Karte"
+        "deDE": "Zeichen auf der Karte"
       }
     },
     "stronghold on map": {
       "Context": "T4.Plugins.Default.StrongholdOnMap",
       "Translations": {
-        "deDE": "Stützpunkte auf Karte"
+        "deDE": "Stützpunkte auf der Karte"
       }
     },
     "filter name": {
@@ -261,97 +261,97 @@
     "character class": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "character Klasse"
+        "deDE": "Charakter Klasse"
       }
     },
     "item type": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "item Typ"
+        "deDE": "Gegenstand Typ"
       }
     },
     "item quality": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "item Qualität"
+        "deDE": "Gegenstand Qualität"
       }
     },
     "quality modifier": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "Qualitäts modifier"
+        "deDE": "Qualitäts Modifikator"
       }
     },
     "#1 mandatory": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "#1 vorrausgesetzt"
+        "deDE": "#1 Voraussetzung"
       }
     },
     "#2 mandatory": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "#2 vorrausgesetzt"
+        "deDE": "#2 Voraussetzung"
       }
     },
     "#3 mandatory": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "#3 vorrausgesetzt"
+        "deDE": "#3 Voraussetzung"
       }
     },
     "#4 mandatory": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "#4 vorrausgesetzt"
+        "deDE": "#4 Voraussetzung"
       }
     },
     "optional count": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "optional count"
+        "deDE": "Optionale Anzahl"
       }
     },
     "#1 optional": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "#1 optional"
+        "deDE": "#1 Optional "
       }
     },
     "#2 optional": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "#2 optional"
+        "deDE": "#2 Optional"
       }
     },
     "#3 optional": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "#3 optional"
+        "deDE": "#3 Optional"
       }
     },
     "#4 optional": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "#4 optional"
+        "deDE": "#4 Optional"
       }
     },
     "#5 optional": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "#5 optional"
+        "deDE": "#5 Optional"
       }
     },
     "#6 optional": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "#6 optional"
+        "deDE": "#6 Optional"
       }
     },
     "#7 optional": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "#7 optional"
+        "deDE": "#7 Optional"
       }
     },
     "save all rules": {
@@ -363,7 +363,7 @@
     "add new rule": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "neue Regel hinzufügen"
+        "deDE": "Neue Regel hinzufügen"
       }
     },
     "delete rule": {
@@ -381,7 +381,7 @@
     "turn on/off": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "turn on/off"
+        "deDE": "Anschalten/Ausschalten"
       }
     },
     "search stats": {
@@ -429,13 +429,13 @@
     "error during the compilation of the following plugin package: {0}": {
       "Context": "internal",
       "Translations": {
-        "deDE": "error beim complilieren folgener Pluging Packete: {0}"
+        "deDE": "Fehler beim kompilieren folgener Pluging Packete: {0}"
       }
     },
     "update available": {
       "Context": "internal",
       "Translations": {
-        "deDE": "update verfügbar"
+        "deDE": "Update verfügbar"
       }
     },
     "display the amount of hitpoints over the globe on the action bar": {
@@ -471,19 +471,19 @@
     "display activated waypoints on the map": {
       "Context": "T4.Plugins.Default.ActivatedWaypointNamesOnMap",
       "Translations": {
-        "deDE": "zeige aktivierte Wegpunkte auf Karte"
+        "deDE": "Zeige aktivierte Wegpunkte auf Karte"
       }
     },
     "display all known quest names on the map": {
       "Context": "T4.Plugins.Default.AllQuestNameOnMap",
       "Translations": {
-        "deDE": "zeige alle bekannten Quest auf karte"
+        "deDE": "Zeige alle bekannten Quest auf karte"
       }
     },
     "vertical offset": {
       "Context": "T4.Plugins.Default.ActivatedWaypointNamesOnMap",
       "Translations": {
-        "deDE": "verticales offset"
+        "deDE": "Vertikalversatz"
       }
     },
     "name font": {
@@ -495,13 +495,13 @@
     "quest type font": {
       "Context": "T4.Plugins.Default.AllQuestNameOnMap",
       "Translations": {
-        "deDE": "quest typ Schriftart"
+        "deDE": "Questtyp Schriftart"
       }
     },
     "maximum zoom level": {
       "Context": "T4.Plugins.Default.AllQuestNameOnMap",
       "Translations": {
-        "deDE": "maximales zoom level"
+        "deDE": "Maximales Zoom ebene"
       }
     },
     "display all Altar Of Lilith locations on the map": {
@@ -573,7 +573,7 @@
     "display items on the map": {
       "Context": "T4.Plugins.Default.ItemOnMap",
       "Translations": {
-        "deDE": "Items auf Karte anzeigen"
+        "deDE": "Items auf der Karte anzeigen"
       }
     },
     "fill style": {
@@ -705,7 +705,7 @@
     "License verification failed! ({0})": {
       "Context": "internal",
       "Translations": {
-        "deDE": "Licenz verification fehlgeschlagen! ({0})"
+        "deDE": "Lizenz verification fehlgeschlagen! ({0})"
       }
     },
     "off": {
@@ -723,7 +723,7 @@
     "loading...": {
       "Context": "internal",
       "Translations": {
-        "deDE": "lädt..."
+        "deDE": "Lädt..."
       }
     },
     "Please provide a valid license:": {
@@ -741,7 +741,7 @@
     "saving customizations to your account failed: {0}": {
       "Context": "customizer",
       "Translations": {
-        "deDE": "speichern von customizations auf Account fehlgeschlagen: {0}"
+        "deDE": "Speichern von Anpassungen auf Account fehlgeschlagen: {0}"
       }
     },
     "can't download plugin update: {0}": {
@@ -753,7 +753,7 @@
     "please restart {0} to recompile the updated plugins": {
       "Context": "internal",
       "Translations": {
-        "deDE": "bitte Neustarten {0} zum rekompilieren aktualisierter Plugins"
+        "deDE": "Bitte Neustarten {0} zum erneuten kompilieren aktualisierter Plugins"
       }
     },
     "unexpected error: {0}": {
@@ -771,19 +771,19 @@
     "at least {0} of these:": {
       "Context": "itemfilter",
       "Translations": {
-        "deDE": "mindestens {0} von diesen:"
+        "deDE": "Mindestens {0} von diesen:"
       }
     },
     "plugin runtime errors: {0}": {
       "Context": "internal",
       "Translations": {
-        "deDE": "plugin runtime errors: {0}"
+        "deDE": "Plugin-Laufzeitfehler: {0}"
       }
     },
     "{0} {1} is only compatible with Diablo IV {2}, however your version is {3}.": {
       "Context": "internal",
       "Translations": {
-        "deDE": "{0} {1} ist nur kompatibel mit Diablo IV {2}, ihre Version ist {3}."
+        "deDE": "{0} {1} ist nur Kompatibel mit Diablo IV {2}, ihre Version ist {3}."
       }
     }
   }
